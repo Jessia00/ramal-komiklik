@@ -1,6 +1,8 @@
 # ramal-komiklik
 Ramalın pardon Answerciğimin paylaştığı ssler hakkında ufak açıklama :D
 
+# not
+Ramal sana attığım altyapıyı buraya atıyorum buyur kullan sistem gör az gelen geçenede sistem bana ait deme yalancı korkak :D
 
 # :D
 ![ramalttden](https://cdn.discordapp.com/attachments/1070424822556921876/1075518681263640586/image.png)
